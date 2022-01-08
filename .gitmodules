@@ -1,0 +1,3 @@
+[submodule "Blogify"]
+	path = Blogify
+	url = https://github.com/thoratvinod/Blogify
